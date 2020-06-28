@@ -1,0 +1,80 @@
+{
+  "projects": [
+    {
+    "name": "Alejandro Quiñones",
+      "tags": ["sonoro", "composicion", "analogo", "juego", "azar"]
+    },
+    {
+      "name": "Ana Saavedra",
+      "tags": ["sonoro", "generacional", "video", "analogo", "familia", "narrativa", "documental", "caribe", "comunidad", "identidad", "diseccion"]
+    },
+    {
+      "name": "Beatriz Orrego",
+      "tags": ["narrativa", "juego", "barrio", "azar", "etnografia", "marginal", "dialogo"]
+    },
+    {
+      "name": "Con la cuchara no",
+      "tags": ["alimento", "cultivo", "tradicion", "identidad", "etnografia", "materia", "dialogo", "publico", "intercambio", "colectivo"]
+    },
+    {
+      "name": "Edgar Benítez",
+      "tags": ["sonoro", "composicion", "video", "colectivo", "comunidad", "tradicion", "identidad", "etnografia", "fotografia", "marginal"]
+    },
+    {
+      "name": "Edisson Montero",
+      "tags": ["comunidad", "tradicion", "ciencia", "escultura", "materia"]
+    },
+    {
+      "name": "Hanna Noh",
+      "tags": ["tradicion", "identidad", "etnografia", "materia", "oficio"]
+    },
+    {
+      "name": "Lina Henao",
+      "tags": ["barrio", "azar", "comunidad", "etnografia", "escultura", "materia", "fotografia", "textil", "marginal", "habitar", "diseccion"]
+    },
+    {
+      "name": "Isabella Lee",
+      "tags": ["sonoro", "generacional", "composicion", "video", "familia", "azar", "identidad", "habitar", "lenguaje", "dialogo"]
+    },
+    {
+      "name": "Jhon Vásquez",
+      "tags": ["sonoro", "generacional", "composicion", "video", "analogo", "documental", "identidad", "escultura", "fotografia", "diseccion"]
+    },
+    {
+      "name": "Juan Bernal",
+      "tags": ["narrativa", "juego", "azar", "comunidad", "museo", "lenguaje", "performance", "dialogo", "intercambio"]
+    },
+    {
+      "name": "Laura Florez",
+      "tags": ["video", "analogo", "narrativa", "documental", "barrio", "fotografia", "habitar"]
+    },
+    {
+      "name": "Laura Gómez",
+      "tags": ["generacional", "familia", "tradicion", "materia", "textil", "oficio", "feminismo"]
+    },
+    {
+      "name": "Los Metiches",
+      "tags": ["documental", "barrio", "colectivo", "comunidad", "museo", "fotografia", "marginal", "habitar", "lenguaje", "dialogo", "intercambio"]
+    },
+    {
+      "name": "Miguel Palencia",
+      "tags": ["generacional", "video", "familia", "alimento", "comunidad", "tradicion", "identidad", "escultura", "materia", "fotografia", "performance", "oficio"]
+    },
+    {
+      "name": "Paola Correa",
+      "tags": ["generacional", "analogo", "familia", "narrativa", "documental", "colectivo", "identidad", "museo", "habitar", "lenguaje", "performance", "dialogo", "oficio", "feminismo"]
+    },
+    {
+      "name": "De Arcilla y Palabras",
+      "tags": ["generacional", "documental", "colectivo", "comunidad", "tradicion", "etnografia", "materia", "fotografia", "oficio"]
+    },
+    {
+      "name": "Rafael Cristancho",
+      "tags": ["sonoro", "familia", "narrativa", "colectivo", "alimento", "cultivo", "ciencia", "fotografia", "marginal"]
+    },
+    {
+      "name": "La Lengua es Espíritu",
+      "tags": ["sonoro", "generacional", "composicion", "familia", "narrativa", "colectivo", "alimento", "comunidad", "cultivo", "identidad", "ciencia", "fotografia"]
+    }
+  ]
+}
